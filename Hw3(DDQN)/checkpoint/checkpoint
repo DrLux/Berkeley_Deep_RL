@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/luca/Desktop/Lab/Berkeley Labs/homework-master/hw3/checkpoint/model.ckpt"
+all_model_checkpoint_paths: "/home/luca/Desktop/Lab/Berkeley Labs/homework-master/hw3/checkpoint/model.ckpt"
