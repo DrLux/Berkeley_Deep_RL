@@ -15,3 +15,10 @@ See the [HW3 PDF](http://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw
 The starter code was based on an implementation of Q-learning for Atari generously provided by Szymon Sidor from OpenAI.
 
 ![](pong.gif)
+
+![pong_statistics](pong_statistics.png)
+
+![](space_invaders.gif)
+
+![space_invaders_statistics](space_invaders_statistics.png)
+
