@@ -1,0 +1,234 @@
+08-30 16:46:46 HalfCheetah_q3_horizon20 INFO     Gathering random dataset
+08-30 16:46:47 HalfCheetah_q3_horizon20 INFO     Creating policy
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     Iteration -1
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     ---------  ---------
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     Itr          -1
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     ReturnAvg  -146.788
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     ReturnMax   -83.1506
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     ReturnMin  -214.672
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     ReturnStd    31.7668
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     ---------  ---------
+08-30 16:46:48 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:46:48 HalfCheetah_q3_horizon20 DEBUG    : total      0.0 (100.0%)
+08-30 16:46:48 HalfCheetah_q3_horizon20 DEBUG    : other      0.0 (100.0%)
+08-30 16:46:48 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     Iteration 0
+08-30 16:46:48 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:46:50 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     Itr                  0
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     ReturnAvg           17.4297
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     ReturnMax           45.1833
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     ReturnMin          -14.1111
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     ReturnStd           18.8295
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00867506
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.24673
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    : total      38.6 (100.0%)
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    : get action 36.4 (94.3%)
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    : train policy 1.4 (3.7%)
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.7%)
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.4%)
+08-30 16:47:27 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     Iteration 1
+08-30 16:47:27 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:47:29 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     Itr                  1
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     ReturnAvg           85.461
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     ReturnMax          155.903
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     ReturnMin           43.7178
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     ReturnStd           35.5209
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00499829
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.0115256
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    : total      39.7 (100.0%)
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    : get action 36.7 (92.5%)
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    : train policy 2.2 (5.5%)
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    : env step   0.7 (1.6%)
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.4%)
+08-30 16:48:07 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     Iteration 2
+08-30 16:48:07 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:48:09 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     Itr                  2
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     ReturnAvg          208.482
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     ReturnMax          275.702
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     ReturnMin          165.086
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     ReturnStd           36.1486
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00452574
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00675494
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    : total      38.2 (100.0%)
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    : get action 34.9 (91.3%)
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    : train policy 2.6 (6.8%)
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    : other      0.1 (0.4%)
+08-30 16:48:45 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     Iteration 3
+08-30 16:48:45 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:48:48 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     Itr                  3
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     ReturnAvg          196.281
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     ReturnMax          235.253
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     ReturnMin          165.145
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     ReturnStd           21.9462
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00542032
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00444448
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    : total      38.7 (100.0%)
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    : get action 34.8 (89.9%)
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    : train policy 3.2 (8.3%)
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    : other      0.1 (0.4%)
+08-30 16:49:24 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     Iteration 4
+08-30 16:49:24 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:49:28 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     Itr                  4
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     ReturnAvg          309.189
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     ReturnMax          402.338
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     ReturnMin          255.221
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     ReturnStd           41.2217
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00322048
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00378308
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    : total      40.9 (100.0%)
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    : get action 36.2 (88.7%)
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    : train policy 3.8 (9.4%)
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.4%)
+08-30 16:50:05 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     Iteration 5
+08-30 16:50:05 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:50:09 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     Itr                  5
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     ReturnAvg          336.871
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     ReturnMax          384.569
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     ReturnMin          295.525
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     ReturnStd           29.2007
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00300486
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00358577
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    : total      41.5 (100.0%)
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    : get action 36.1 (87.0%)
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    : train policy 4.6 (11.1%)
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.4%)
+08-30 16:50:46 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     Iteration 6
+08-30 16:50:46 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:50:52 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     Itr                  6
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     ReturnAvg          328.919
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     ReturnMax          395.573
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     ReturnMin          206.191
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     ReturnStd           54.764
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00264286
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00318327
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    : total      42.7 (100.0%)
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    : get action 36.5 (85.4%)
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    : train policy 5.4 (12.7%)
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.4%)
+08-30 16:51:29 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     Iteration 7
+08-30 16:51:29 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:51:35 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     Itr                  7
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     ReturnAvg          380.313
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     ReturnMax          438.977
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     ReturnMin          278.225
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     ReturnStd           41.4629
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.002209
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00261242
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    : total      43.2 (100.0%)
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    : get action 36.2 (83.6%)
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    : train policy 6.3 (14.6%)
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.4%)
+08-30 16:52:12 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     Iteration 8
+08-30 16:52:12 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:52:19 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     Itr                  8
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     ReturnAvg          401.593
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     ReturnMax          476.887
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     ReturnMin          341.764
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     ReturnStd           40.3192
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00303196
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.0025185
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    : total      44.3 (100.0%)
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    : get action 36.3 (82.0%)
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    : train policy 7.2 (16.2%)
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.5%)
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    : other      0.2 (0.3%)
+08-30 16:52:56 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     Iteration 9
+08-30 16:52:56 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:53:04 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     Itr                  9
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     ReturnAvg          423.551
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     ReturnMax          505.451
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     ReturnMin          324.527
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     ReturnStd           44.85
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00197262
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00237029
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    : total      44.4 (100.0%)
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    : get action 35.7 (80.2%)
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    : train policy 8.0 (18.0%)
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.4%)
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    : other      0.1 (0.3%)
+08-30 16:53:41 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     Iteration 10
+08-30 16:53:41 HalfCheetah_q3_horizon20 INFO     Training policy...
+08-30 16:53:50 HalfCheetah_q3_horizon20 INFO     Gathering rollouts...
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     Appending dataset...
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     Itr                 10
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     ReturnAvg          457.442
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     ReturnMax          487.581
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     ReturnMin          414.713
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     ReturnStd           21.1715
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     TrainingLossFinal    0.00243875
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     TrainingLossStart    0.00222542
+08-30 16:54:26 HalfCheetah_q3_horizon20 INFO     -----------------  ------------
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    : total      45.5 (100.0%)
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    : get action 35.9 (78.8%)
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    : train policy 8.9 (19.5%)
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    : env step   0.6 (1.4%)
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    : other      0.1 (0.3%)
+08-30 16:54:26 HalfCheetah_q3_horizon20 DEBUG    

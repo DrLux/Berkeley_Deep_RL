@@ -1,0 +1,15 @@
+08-30 15:57:12 HalfCheetah_q2_exp INFO     Gathering random dataset
+08-30 15:57:12 HalfCheetah_q2_exp INFO     Creating policy
+08-30 15:57:14 HalfCheetah_q2_exp INFO     Random policy
+08-30 15:57:14 HalfCheetah_q2_exp INFO     ---------  ---------
+08-30 15:57:14 HalfCheetah_q2_exp INFO     ReturnAvg  -140.379
+08-30 15:57:14 HalfCheetah_q2_exp INFO     ReturnMax   -93.28
+08-30 15:57:14 HalfCheetah_q2_exp INFO     ReturnMin  -211.563
+08-30 15:57:14 HalfCheetah_q2_exp INFO     ReturnStd    36.7325
+08-30 15:57:14 HalfCheetah_q2_exp INFO     ---------  ---------
+08-30 15:57:14 HalfCheetah_q2_exp DEBUG    
+08-30 15:57:14 HalfCheetah_q2_exp DEBUG    : total      0.0 (100.0%)
+08-30 15:57:14 HalfCheetah_q2_exp DEBUG    : other      0.0 (100.0%)
+08-30 15:57:14 HalfCheetah_q2_exp DEBUG    
+08-30 15:57:14 HalfCheetah_q2_exp INFO     Training policy....
+08-30 15:57:15 HalfCheetah_q2_exp INFO     Evaluating policy...
