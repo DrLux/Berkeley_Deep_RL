@@ -2,6 +2,9 @@
 
 See the [HW4 PDF](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/homeworks/hw4.pdf) for further instructions.
 
+# Trained Agent 
+![rubbit_run](data/HalfCheetah_q1_exp/rubbit_run.gif)
+
 # Comparison of Learned and Actual Model
 ![Comparison](data/HalfCheetah_q1_exp/prediction_000.jpg)
 
