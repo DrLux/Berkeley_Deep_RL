@@ -1,0 +1,17 @@
+08-30 18:31:34 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Gathering random dataset
+08-30 18:31:35 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Creating policy
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Iteration -1
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     ---------  --------
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Itr          -1
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     ReturnAvg  -147.211
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     ReturnMax  -100.161
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     ReturnMin  -170.686
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     ReturnStd    24.981
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     ---------  --------
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 DEBUG    
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 DEBUG    : total      0.0 (100.0%)
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 DEBUG    : other      0.0 (100.0%)
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 DEBUG    
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Iteration 0
+08-30 18:31:36 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Training policy...
+08-30 18:31:37 HalfCheetah_q3_30-08-2019_18-31-34 INFO     Gathering rollouts...

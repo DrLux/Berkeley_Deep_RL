@@ -1,0 +1,234 @@
+08-30 18:32:17 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering random dataset
+08-30 18:32:17 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Creating policy
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration -1
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ---------  ---------
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr          -1
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg  -168.826
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax  -128.56
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin  -218.446
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd    24.0816
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ---------  ---------
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      0.0 (100.0%)
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.0 (100.0%)
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 0
+08-30 18:32:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:32:20 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  0
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg           45.6159
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          113.04
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          -39.0228
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           45.2476
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00722384
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.241186
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      32.6 (100.0%)
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 30.7 (94.3%)
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 1.0 (3.0%)
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (2.1%)
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 1
+08-30 18:32:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:32:53 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  1
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          129.514
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          206.87
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin           87.072
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           31.1925
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00652488
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.0119028
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      33.5 (100.0%)
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 31.0 (92.5%)
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 1.6 (4.9%)
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (2.1%)
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 2
+08-30 18:33:25 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:33:27 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  2
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          208.991
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          260.867
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          166.954
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           28.4739
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00334614
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00577737
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      34.2 (100.0%)
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 31.0 (90.7%)
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 2.3 (6.8%)
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (2.0%)
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 3
+08-30 18:33:59 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:34:02 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  3
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          236.841
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          275.891
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          160.744
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           32.757
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00297426
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00442955
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      35.1 (100.0%)
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 31.1 (88.6%)
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 3.1 (8.9%)
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (2.0%)
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 4
+08-30 18:34:34 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:34:38 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  4
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          254.64
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          310.245
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          174.109
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           38.2937
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00339107
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00347517
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      35.8 (100.0%)
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 31.1 (86.9%)
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 3.8 (10.6%)
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (2.0%)
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 5
+08-30 18:35:10 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:35:14 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  5
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          286.763
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          342.899
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          233.65
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           37.067
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00235045
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00291854
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      36.3 (100.0%)
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 30.8 (84.9%)
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 4.6 (12.7%)
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (1.9%)
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 6
+08-30 18:35:46 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:35:51 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  6
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          305.979
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          372.011
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          216.413
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           50.8039
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00221993
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00289899
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      37.6 (100.0%)
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 31.3 (83.3%)
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 5.4 (14.3%)
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (1.9%)
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.5%)
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 7
+08-30 18:36:24 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:36:30 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  7
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          343.627
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          394.68
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          294.817
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           33.2938
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00230304
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00243579
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      37.5 (100.0%)
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 30.3 (80.8%)
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 6.3 (16.9%)
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (1.8%)
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.4%)
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 8
+08-30 18:37:01 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:37:08 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  8
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          319.086
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          359.322
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          275.321
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           24.761
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00196034
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.0026165
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      38.9 (100.0%)
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 30.9 (79.5%)
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 7.1 (18.3%)
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (1.8%)
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.4%)
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 9
+08-30 18:37:40 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:37:48 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                  9
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          313.055
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          363.853
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          259.015
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           28.5368
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00174129
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00213759
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      39.5 (100.0%)
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 30.6 (77.5%)
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 8.0 (20.4%)
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (1.7%)
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.4%)
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Iteration 10
+08-30 18:38:19 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Training policy...
+08-30 18:38:29 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Gathering rollouts...
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Appending dataset...
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     Itr                 10
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnAvg          340.002
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMax          395.911
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnMin          246.783
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     ReturnStd           38.7528
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossFinal    0.00152068
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     TrainingLossStart    0.00160335
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 INFO     -----------------  ------------
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : total      40.6 (100.0%)
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : get action 30.7 (75.6%)
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : train policy 9.0 (22.3%)
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : env step   0.7 (1.7%)
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    : other      0.2 (0.4%)
+08-30 18:39:00 HalfCheetah_q3_30-08-2019_18-32-17 DEBUG    

@@ -9,7 +9,7 @@ class ModelBasedPolicy(object):
     def __init__(self,
                  env,
                  init_dataset,
-                 horizon=15,
+                 horizon=20,
                  num_random_action_selection=4096,
                  nn_layers=1):
         self._cost_fn = env.cost_fn

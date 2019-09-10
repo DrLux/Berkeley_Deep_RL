@@ -228,6 +228,7 @@ class ModelBasedRL(object):
             dataset.append(new_dataset)
 
             self._log(new_dataset)
+        self.play_env()
 
 
     def play_env(self):
@@ -238,10 +239,9 @@ class ModelBasedRL(object):
 
 
         # Play trained policy
-        #env = HalfCheetahEnv()
-        env = gym.make('HalfCheetah-v2')
-        env = wrappers.Monitor(env, "./video")
-
+        env = HalfCheetahEnv()
+        #env = gym.make('HalfCheetah-v2')
+        #env = wrappers.Monitor(env, "./video")
 
 
         state = env.reset()
@@ -257,8 +257,7 @@ class ModelBasedRL(object):
             timeit.start('env step')
             next_state, reward, done, _ = env.step(action)
             timeit.stop('env step')
-            #done = done or (t >= self._max_rollout_length)
-            done = done or (t >= 100)
+            done = done or (t >= self._max_rollout_length)
             state = next_state
 
             t += 1 
